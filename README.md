@@ -7,3 +7,11 @@ The Los Angeles Times conducted an analysis of temporary visas granted to foreig
 The results were reported in a May 25, 2017, Los Angeles Times story titled ["Trump promised a ‘big beautiful door’ in his border wall. California farmers are ready and waiting"](http://www.latimes.com/projects/la-fi-farm-labor-guestworkers/).
 
 The Times' findings and analysis are available in the ["analysis" notebook](https://github.com/datadesk/california-h2a-visas-analysis/blob/master/04_analysis.ipynb) in this repository.
+
+## Steve's Notes
+
+![02_transform_workflow](02_transform_workflow.jpg)
+
+![03_geocode_workflow](03_geocode_workflow.jpg)
+
+![04_analysis_workflow](04_analysis_workflow.jpg)
